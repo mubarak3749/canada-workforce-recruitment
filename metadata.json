@@ -1,0 +1,6 @@
+{
+  "name": "Canada Workforce Recruitment",
+  "description": "Professional Canadian recruitment and employment agency connecting qualified workers with legitimate opportunities in agriculture, packing, food processing, warehousing, and retail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
